@@ -1,6 +1,6 @@
 ### Currently:
 
-I'm a Ph.D student at the CSE dept in the Ohio State University. I'm part of the [Network-based Computing Lab](http://nowlab.cse.ohio-state.edu/) research group headed by Dr. D.K Panda. I received my Bachelor's degree in Technology (B.S equivalent (no pun intended)) from the department of Information Technology at NITK.
+I'm a software engineer working for NVIDIA CUDA software as part of the 'Programming Models and Runtime Systems for Deep Learning' team. I was a Ph.D student at the CSE dept in the Ohio State University and defended my disseration as of December 7th, 2016. I was part of the [Network-based Computing Lab](http://nowlab.cse.ohio-state.edu/) research group headed by Dr. D.K Panda. I received my Bachelor's degree in Technology (B.S equivalent (no pun intended)) from the department of Information Technology at NITK.
 
 My research interests include communication designs for accelerators/co-processors in HPC and power/energy-aware computing and performance analysis/profiling of MPI programs. I have been contributing the [MVAPICH MPI Project](http://mvapich.cse.ohio-state.edu/) since April 2012.
 
@@ -8,6 +8,7 @@ My research interests include communication designs for accelerators/co-processo
 
 ### Contact
 akshay.v.3.14@gmail.com
+akvenkatesh@nvidia.com
 
 ***
 
@@ -22,7 +23,9 @@ akshay.v.3.14@gmail.com
 ***
 
 ### Conference Publications
-* **Offloaded GPU Collectives using CORE-Direct and CUDA Capabilities on IB Clusters** A. Venkatesh, K. Hamidouche, H. Subramoni, DK Panda - HiPC '15, December 2015 [Accepted] 
+* **MPI-GDS: High Performance MPI Designs with GPUDirect-aSync for CPU-GPU Control Flow Decoupling**
+ A. Venkatesh, Ching-Hsiang Chu, Khaled Hamidouche, Sreeram Potluri, Davide Rossetti and Dhabaleswar Panda - ICPP '17, August 2017 [Accepted]
+* **Offloaded GPU Collectives using CORE-Direct and CUDA Capabilities on IB Clusters** A. Venkatesh, K. Hamidouche, H. Subramoni, DK Panda - HiPC '15, December 2015
 * **A Case for Application-Oblivious Energy-Efficient MPI Runtime** A. Venkatesh , A. Vishnu , K. Hamidouche , N. Tallent , D. K. Panda , D. Kerbyson , and A. Hoise - Supercomputing 15, Nov 2015 **_[Accepted as Best Student Paper Finalist]_**
 * **Exploiting GPUDirect RDMA in Designing High Performance OpenSHMEM for NVIDIA GPU Clusters** 
 K. Hamidouche , A. Venkatesh , A. Awan , H. Subramoni , and D. K. Panda - IEEE Cluster 2015, Sep 2015
