@@ -13,7 +13,7 @@ akvenkatesh@nvidia.com
 ***
 
 ### CV
-[pdf](http://web.cse.ohio-state.edu/~akshay/public/resume.pdf)
+[pdf](./header.pdf)
 
 ***
 
