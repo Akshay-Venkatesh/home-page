@@ -2,7 +2,7 @@ title: Akshay Venkatesh
 description: Home page
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
