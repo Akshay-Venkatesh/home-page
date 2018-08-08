@@ -2,7 +2,7 @@
 
 I'm a software engineer working for NVIDIA Corportation as part of the 'Programming Models and Runtime Systems for Deep Learning' team (subgroup of CUDA Software). I was a Ph.D student at the CSE dept in the Ohio State University and defended my disseration on December 7th, 2016. I was part of the [Network-based Computing Lab](http://nowlab.cse.ohio-state.edu/) research group headed by Dr. D.K Panda. I received my Bachelor's degree in Technology (B.S equivalent (no pun intended)) from the department of Information Technology at NITK.
 
-My research interests include communication designs for accelerators/co-processors in HPC and power/energy-aware computing and performance analysis/profiling of MPI programs. I have been contributing the [MVAPICH MPI Project](http://mvapich.cse.ohio-state.edu/) since April 2012.
+My research interests include communication designs for accelerators/co-processors in HPC and power/energy-aware computing and performance analysis/profiling of MPI programs. I contributed to the [MVAPICH MPI Project](http://mvapich.cse.ohio-state.edu/) since April 2012 - August 2017.
 
 ***
 
